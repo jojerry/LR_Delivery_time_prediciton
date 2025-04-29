@@ -1,1 +1,5 @@
 # LR_Delivery_time_prediciton
+
+Contains Jupiter Notebook and PDF for LR_Delivery_time_predictions Assignment
+Jupiter Notebook Name: LR_Delivery_Time_Estimation_Starter_Jothi_Vijayakumar.ipynb
+PDF Name: Report_LR_Delivery_Time_Prediction_Jothi_vijayakumar.docx
